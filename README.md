@@ -23,10 +23,13 @@ Equipped with hands-on skills in routing, switching, and troubleshooting, alongs
     <img src="https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server" />
     <img src="https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="PyQt5" />
     <img src="https://img.shields.io/badge/VBA-867CD9?style=for-the-badge&logo=visual-basic&logoColor=white" alt="VBA" />
+    <img src="https://img.shields.io/badge/Penetration_Testing-D2042D?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Penetration Testing" />
+    <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
     <img src="https://img.shields.io/badge/Nmap-8D634C?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
     <img src="https://img.shields.io/badge/Burp_Suite-FF2B2B?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite" />
     <img src="https://img.shields.io/badge/Nessus-6101FF?style=for-the-badge&logo=nessus&logoColor=white" alt="Nessus" />
     <img src="https://img.shields.io/badge/OpenVAS-40E0D0?style=for-the-badge&logo=openvas&logoColor=white" alt="OpenVAS" />
+    <img src="https://img.shields.io/badge/Digital_Forensics-1565C0?style=for-the-badge&logo=acclaim&logoColor=white" alt="Digital Forensics" />
     <img src="https://img.shields.io/badge/VMware-607D8B?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware" />
     <img src="https://img.shields.io/badge/VirtualBox-18A3D5?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox" />
 </div>
@@ -40,7 +43,7 @@ Equipped with hands-on skills in routing, switching, and troubleshooting, alongs
 <td width="50%" valign="top">
 <h3 align="center">AREA C - Clinic Management System</h3>
 <div align="center">
-<a href="https://github.com/OmarGhayad/AREA-C-Project" target="_blank">
+<a href="#" target="_blank">
 <img src="area_c_project.png" width="400" alt="AREA C Project Screenshot">
 </a>
 <p>
@@ -55,7 +58,7 @@ A desktop application developed to solve a real-world problem for a doctor's cli
 <td width="50%" valign="top">
 <h3 align="center">Ghost C2 - Educational C2 Framework</h3>
 <div align="center">
-<a href="https://github.com/OmarGhayad/Ghost-C2-Framework" target="_blank">
+<a href="https://github.com/OmarGhayad/Ghost-C2" target="_blank">
 <img src="https://user-images.githubusercontent.com/24237865/91253094-1b072800-e747-11ea-9467-f37a52a36b99.png" width="400" alt="Ghost C2 Screenshot">
 </a>
 <p>
@@ -66,7 +69,7 @@ A graphical Command & Control framework for educational and research purposes in
 <code>Python</code>, <code>tkinter</code>, <code>Sockets</code>, <code>Threading</code>
 </p>
 <p>
-<a href="https://github.com/OmarGhayad/Ghost-C2-Framework" target="_blank">View on GitHub</a>
+<a href="https://github.com/OmarGhayad/Ghost-C2" target="_blank">View on GitHub</a>
 </p>
 </div>
 </td>
