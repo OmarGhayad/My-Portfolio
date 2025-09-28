@@ -1,3 +1,4 @@
+
 # Omar Mohamed Ghayad
 
 ### System Administrator | Cybersecurity & Networking Enthusiast
@@ -17,10 +18,10 @@ Equipped with hands-on skills in routing, switching, and troubleshooting, alongs
 ### 💼 Experience
 
 **IT Specialist Intern @ Authority of the Ministry of Agriculture**
-[cite_start]*📅 January 2022 - November 2023* [cite: 13]
+*📅 January 2022 - November 2023*
 
-- [cite_start]Configured, maintained, and troubleshooted hardware and software systems to ensure seamless organizational operations. [cite: 14]
-- [cite_start]Managed network connectivity by linking devices to the internal server, performing regular updates, and enhancing system security and efficiency. [cite: 15]
+- [cite_start]Configured, maintained, and troubleshooted hardware and software systems to ensure seamless organizational operations[cite: 14].
+- [cite_start]Managed network connectivity by linking devices to the internal server, performing regular updates, and enhancing system security and efficiency[cite: 15].
 
 ---
 
@@ -43,6 +44,8 @@ Equipped with hands-on skills in routing, switching, and troubleshooting, alongs
     <img src="https://img.shields.io/badge/Nmap-8D634C?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
     <img src="https://img.shields.io/badge/Burp_Suite-FF2B2B?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite" />
     <img src="https://img.shields.io/badge/Digital_Forensics-1565C0?style=for-the-badge&logo=acclaim&logoColor=white" alt="Digital Forensics" />
+    <img src="https://img.shields.io/badge/VMware-607D8B?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware" />
+    <img src="https://img.shields.io/badge/VirtualBox-18A3D5?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox" />
 </div>
 
 ---
@@ -107,34 +110,6 @@ A desktop application to download videos or full playlists from multiple platfor
 </td>
 </tr>
 </table>
-
----
-
-### 🎓 Education & Certifications
-
-- [cite_start]**Bachelor's degree in Information Technology** [cite: 7]
-  - [cite_start]*6 October technological university* [cite: 6] [cite_start]*(Expected Graduation: July 2027)* [cite: 12]
-
-<br>
-
-- **Certifications & Professional Training:**
-  - [cite_start]**Full Stack Web Development using .NET (ITI)** [cite: 17]
-  - [cite_start]**CCNAv7:** Switching, Routing, and Wireless Essentials [cite: 28]
-  - [cite_start]**CCNAv7:** Enterprise Networking, Security, and Automation [cite: 32]
-  - [cite_start]**MTA:** Windows Server Administration Fundamentals [cite: 35]
-  - [cite_start]**MTA:** Networking Fundamentals [cite: 39]
-  - [cite_start]**MTA:** Windows Operating System Fundamentals [cite: 42]
-  - [cite_start]**Network Essentials (NTI)** [cite: 20]
-  - [cite_start]**Programming Essentials in Python** [cite: 25]
-
----
-
-### 🤝 Volunteering Experience
-
-**Public Relations Specialist @ OTU CPC Club**
-[cite_start]*📅 November 2024 - Present* [cite: 52]
-
-- [cite_start]Developed strong communication skills to interact with diverse groups and support student activities. [cite: 53]
 
 ---
 
