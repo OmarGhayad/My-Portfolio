@@ -1,4 +1,3 @@
-
 # Omar Mohamed Ghayad
 
 ### System Administrator | Cybersecurity & Networking Enthusiast
@@ -12,16 +11,6 @@ Passionate about exploring the field of Information Technology and staying updat
 
 Equipped with hands-on skills in routing, switching, and troubleshooting, alongside a strong foundation in network security principles. Proficient in leveraging Microsoft and Cisco technologies, in addition to scripting with Python and SQL to address complex technical challenges. I am dedicated to protecting digital infrastructures and finding innovative solutions to the challenges around us.
 </p>
-
----
-
-### 💼 Experience
-
-**IT Specialist Intern @ Authority of the Ministry of Agriculture**
-*📅 January 2022 - November 2023*
-
-- [cite_start]Configured, maintained, and troubleshooted hardware and software systems to ensure seamless organizational operations[cite: 14].
-- [cite_start]Managed network connectivity by linking devices to the internal server, performing regular updates, and enhancing system security and efficiency[cite: 15].
 
 ---
 
