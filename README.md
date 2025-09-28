@@ -44,7 +44,7 @@ Equipped with hands-on skills in routing, switching, and troubleshooting, alongs
 <h3 align="center">AREA C - Clinic Management System</h3>
 <div align="center">
 <a href="#" target="_blank">
-<img src="area_c_project.png" width="400" alt="AREA C Project Screenshot">
+<img src="AREA%20C.jpg" width="400" alt="AREA C Project Screenshot">
 </a>
 <p>
 A desktop application developed to solve a real-world problem for a doctor's clinic, replacing manual Word files with a structured database system.
@@ -59,7 +59,7 @@ A desktop application developed to solve a real-world problem for a doctor's cli
 <h3 align="center">Ghost C2 - Educational C2 Framework</h3>
 <div align="center">
 <a href="https://github.com/OmarGhayad/Ghost-C2" target="_blank">
-<img src="https://user-images.githubusercontent.com/24237865/91253094-1b072800-e747-11ea-9467-f37a52a36b99.png" width="400" alt="Ghost C2 Screenshot">
+<img src="Ghost%20C2.jpg" width="400" alt="Ghost C2 Screenshot">
 </a>
 <p>
 A graphical Command & Control framework for educational and research purposes in isolated VM environments, demonstrating C2 concepts.
@@ -80,7 +80,7 @@ A graphical Command & Control framework for educational and research purposes in
 <h3 align="center">AV - Video Downloader</h3>
 <div align="center">
 <a href="https://github.com/OmarGhayad/AV--Video-Downloader-" target="_blank">
-<img src="av_downloader_project.png" width="400" alt="AV Video Downloader Screenshot">
+<img src="AV%20Down.jpg" width="400" alt="AV Video Downloader Screenshot">
 </a>
 <p>
 A desktop application to download videos or full playlists from multiple platforms, featuring a download queue, resolution selection, and progress tracking.
