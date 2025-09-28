@@ -32,7 +32,14 @@ Equipped with hands-on skills in routing, switching, and troubleshooting, alongs
     <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
     <img src="https://img.shields.io/badge/Nmap-8D634C?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
     <img src="https://img.shields.io/badge/Burp_Suite-FF2B2B?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite" />
+    <img src="https://img.shields.io/badge/OWASP_ZAP-2C5592?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP ZAP" />
+    <img src="https://img.shields.io/badge/Hydra-161616?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Hydra" />
+    <img src="https://img.shields.io/badge/SET-161616?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Social-Engineer Toolkit" />
+    <img src="https://img.shields.io/badge/Nessus-6101FF?style=for-the-badge&logo=nessus&logoColor=white" alt="Nessus" />
+    <img src="https://img.shields.io/badge/OpenVAS-40E0D0?style=for-the-badge&logo=openvas&logoColor=white" alt="OpenVAS" />
     <img src="https://img.shields.io/badge/Digital_Forensics-1565C0?style=for-the-badge&logo=acclaim&logoColor=white" alt="Digital Forensics" />
+    <img src="https://img.shields.io/badge/Cloud_Security-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Cloud Security" />
+    <img src="https://img.shields.io/badge/Problem%20Solving-4CAF50?style=for-the-badge" alt="Problem Solving" />
     <img src="https://img.shields.io/badge/VMware-607D8B?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware" />
     <img src="https://img.shields.io/badge/VirtualBox-18A3D5?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox" />
 </div>
@@ -102,23 +109,22 @@ A desktop application to download videos or full playlists from multiple platfor
 
 ---
 
-### 🏅 Certifications & Professional Training
-
-- Full Stack Web Development using .NET (ITI)
-- CCNAv7: Switching, Routing, and Wireless Essentials
-- CCNAv7: Enterprise Networking, Security, and Automation
-- MTA: Windows Server Administration Fundamentals
-- MTA: Networking Fundamentals
-- MTA: Windows Operating System Fundamentals
-- Network Essentials (NTI)
-- Programming Essentials in Python
-
----
-
-### 🎓 Education
+### 🎓 Education & Certifications
 
 - **Bachelor's degree in Information Technology**
   - *6 October technological university*
+
+<br>
+
+- **Certifications & Professional Training:**
+  - Full Stack Web Development using .NET (ITI)
+  - CCNAv7: Switching, Routing, and Wireless Essentials
+  - CCNAv7: Enterprise Networking, Security, and Automation
+  - MTA: Windows Server Administration Fundamentals
+  - MTA: Networking Fundamentals
+  - MTA: Windows Operating System Fundamentals
+  - Network Essentials (NTI)
+  - Programming Essentials in Python
 
 ---
 
