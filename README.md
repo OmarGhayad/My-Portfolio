@@ -102,6 +102,26 @@ A desktop application to download videos or full playlists from multiple platfor
 
 ---
 
+### 🏅 Certifications & Professional Training
+
+- Full Stack Web Development using .NET (ITI)
+- CCNAv7: Switching, Routing, and Wireless Essentials
+- CCNAv7: Enterprise Networking, Security, and Automation
+- MTA: Windows Server Administration Fundamentals
+- MTA: Networking Fundamentals
+- MTA: Windows Operating System Fundamentals
+- Network Essentials (NTI)
+- Programming Essentials in Python
+
+---
+
+### 🎓 Education
+
+- **Bachelor's degree in Information Technology**
+  - *6 October technological university*
+
+---
+
 ### 📫 Let's Connect!
 
 <p align="center">
